@@ -246,6 +246,6 @@ The analysis highlights how data can help businesses understand where revenue an
 
 ## Author
 
-**Luciana Bujor**
+**Lucy**
 
 Aspiring Data Analyst | SQL | MySQL | Power BI | Data Analysis | Business Intelligence   | Mermaid
