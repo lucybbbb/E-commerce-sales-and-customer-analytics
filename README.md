@@ -187,6 +187,7 @@ The following images provide an overview of the Power BI report:
 
 ![Customer Cohort Retention Dashboard](reports/customer_cohort_retention.png)
 https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/data_dictionary.md
+https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/ecommerce-pbi.pdf
 ---
 
 ## Key Findings
