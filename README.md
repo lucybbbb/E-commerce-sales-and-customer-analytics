@@ -83,7 +83,9 @@ The project uses a multi-table e-commerce dataset containing seven tables.
 The data supports analysis at multiple levels, including individual orders, order items, customers, products, sessions, and website events.
 
 ---
+### Data Availability
 
+The original Power BI (`.pbix`) file and the `events.csv` dataset could not be uploaded to this repository due to their large file sizes. The dataset was downloaded from [Kaggle](https://www.kaggle.com/) and used for this project.
 ## Data Preparation and Modelling
 
 Key steps included:
@@ -179,8 +181,8 @@ The Power BI report presents the results of the analysis through a series of foc
 
 The following images provide an overview of the Power BI report
 
-https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/data_dictionary.md
-https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/ecommerce-pbi.pdf
+![Data Dictionary](https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/data_dictionary.md)
+![Dashboard Overview](https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/ecommerce-pbi.pdf)
 ---
 
 ## Key Findings
@@ -231,6 +233,7 @@ The `docs/` folder can contain dashboard screenshots and an exported version of 
 ### Python 
 
 The `python/` folder contains the analysis, cleaning of the dataset. 
+
 ---
 
 ## Conclusion
