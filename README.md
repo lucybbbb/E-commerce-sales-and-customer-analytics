@@ -177,15 +177,8 @@ The Power BI report presents the results of the analysis through a series of foc
 
 ## Dashboard Preview
 
-The following images provide an overview of the Power BI report:
+The following images provide an overview of the Power BI report
 
-![Sales Performance Dashboard](docs/sales_performance.png)
-
-![Customer and Product Insights Dashboard](reports/customer_product_insights.png)
-
-![Marketing and Website Funnel Dashboard](reports/marketing_website_funnel.png)
-
-![Customer Cohort Retention Dashboard](reports/customer_cohort_retention.png)
 https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/data_dictionary.md
 https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/ecommerce-pbi.pdf
 ---
