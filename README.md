@@ -24,7 +24,7 @@ The goal of this project is to explore e-commerce performance across sales, cust
 <hr>
 <table>
   <tr>
-    <td><img width="550" height="300" alt="image" src="ecommerce\docs\pic1.jpg" /></td>
+    <td><img width="550" height="300" alt="image" src="docs\pic1.jpg" /></td>
     <td><img width="550" height="300" alt="image" src="docs\pic2.jpg"/></td>
   </tr>
   <tr>
@@ -62,6 +62,7 @@ PRODUCTS --> EVENTS
 - **Power BI** – Dashboard development, data visualization, DAX measures, and interactive reporting.
 - **Power Query** – Data import, inspection, and preparation.
 - **Git & GitHub** – Version control and project documentation.
+- **Mermaid** – Generate diagrams from plain text.
 
 ---
 
@@ -247,4 +248,4 @@ The analysis highlights how data can help businesses understand where revenue an
 
 **Luciana Bujor**
 
-Aspiring Data Analyst | SQL | MySQL | Power BI | Data Analysis | Business Intelligence
+Aspiring Data Analyst | SQL | MySQL | Power BI | Data Analysis | Business Intelligence   | Mermaid
