@@ -186,7 +186,7 @@ The following images provide an overview of the Power BI report:
 ![Marketing and Website Funnel Dashboard](reports/marketing_website_funnel.png)
 
 ![Customer Cohort Retention Dashboard](reports/customer_cohort_retention.png)
-
+https://github.com/lucybbbb/E-commerce-sales-and-customer-analytics/blob/main/docs/data_dictionary.md
 ---
 
 ## Key Findings
