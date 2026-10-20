@@ -179,7 +179,7 @@ The Power BI report presents the results of the analysis through a series of foc
 
 The following images provide an overview of the Power BI report:
 
-![Sales Performance Dashboard](reports/sales_performance.png)
+![Sales Performance Dashboard](docs/sales_performance.png)
 
 ![Customer and Product Insights Dashboard](reports/customer_product_insights.png)
 
@@ -234,6 +234,9 @@ The Power BI report contains visualizations for sales performance, customer and 
 
 The `docs/` folder can contain dashboard screenshots and an exported version of the Power BI report for convenient viewing.
 
+### Python 
+
+The `python/` folder contains the analysis, cleaning of the dataset. 
 ---
 
 ## Conclusion
