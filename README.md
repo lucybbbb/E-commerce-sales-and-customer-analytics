@@ -1,6 +1,6 @@
 # E-commerce Sales and Customer Analytics
 
-This project analyzes e-commerce sales, customer behaviour, product profitability, customer reviews, marketing channels, and website activity using SQL, MySQL, and Power BI. It combines transactional and customer data to identify business patterns, evaluate sales performance, and understand factors associated with repeat purchases and profitability.
+This project analyses e-commerce sales, customer behaviour, product profitability, customer reviews, marketing channels, and website activity using MySQL, Python and Power BI. It combines transactional and customer data to identify business patterns, evaluate sales performance, and understand factors associated with repeat purchases and profitability.
 
 ---
 
