@@ -20,7 +20,20 @@ The goal of this project is to explore e-commerce performance across sales, cust
 - Do customers return to purchase again in the months following their first order?
 
 ---
+---
 
+<hr>
+<table>
+  <tr>
+    <td><img width="550" height="300" alt="image" src="reports\Pic1.jpg" /></td>
+    <td><img width="550" height="300" alt="image" src="reports\Pic2.jpg"/></td>
+  </tr>
+  <tr>
+    <td><img width="550" height="300" alt="image" src="reports\Pic3.jpg" /></td>
+    <td><img width="550" height="300" alt="image" src="reports\Pic4.jpg" />    </td>
+  </tr>
+</table>
+<hr>
 ## Project Structure
 
 ```mermaid
