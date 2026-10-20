@@ -28,7 +28,7 @@ The goal of this project is to explore e-commerce performance across sales, cust
     <td><img width="550" height="300" alt="image" src="docs\pic2.jpg"/></td>
   </tr>
   <tr>
-    <td><img width="550" height="300" alt="image" src="docs\pic3.jpg" /></td>
+    <td><img width="550" height="300" alt="image" src="docs\pic5.jpg" /></td>
     <td><img width="550" height="300" alt="image" src="docs\pic4.jpg" />    </td>
   </tr>
 </table>
@@ -177,7 +177,7 @@ The Power BI report presents the results of the analysis through a series of foc
 
 ## Dashboard Preview
 
-The following images provide an overview of the Power BI report. Update the image paths to match your actual screenshot filenames in the repository.
+The following images provide an overview of the Power BI report:
 
 ![Sales Performance Dashboard](reports/sales_performance.png)
 
@@ -230,9 +230,9 @@ SQL scripts used to investigate sales, profitability, customer purchasing patter
 
 The Power BI report contains visualizations for sales performance, customer and product insights, marketing and website behaviour, and customer cohort retention.
 
-### Reports
+### Docs
 
-The `reports/` folder can contain dashboard screenshots and an exported version of the Power BI report for convenient viewing.
+The `docs/` folder can contain dashboard screenshots and an exported version of the Power BI report for convenient viewing.
 
 ---
 
