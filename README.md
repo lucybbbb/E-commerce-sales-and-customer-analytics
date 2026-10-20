@@ -20,12 +20,11 @@ The goal of this project is to explore e-commerce performance across sales, cust
 - Do customers return to purchase again in the months following their first order?
 
 ---
----
 
 <hr>
 <table>
   <tr>
-    <td><img width="550" height="300" alt="image" src="docs\pic1.jpg" /></td>
+    <td><img width="550" height="300" alt="image" src="ecommerce\docs\pic1.jpg" /></td>
     <td><img width="550" height="300" alt="image" src="docs\pic2.jpg"/></td>
   </tr>
   <tr>
