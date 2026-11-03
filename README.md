@@ -33,9 +33,10 @@ The goal of this project is to explore e-commerce performance across sales, cust
   </tr>
 </table>
 </hr>
----
-## Dataset
 ## Project Structure
+---
+
+
 
 ```mermaid
 flowchart TD
