@@ -4,7 +4,7 @@ This project analyses e-commerce sales, customer behaviour, product profitabilit
 
 ---
 
-# Project Objective
+## Project Objective
 
 The goal of this project is to explore e-commerce performance across sales, customers, products, and website interactions, answering key business questions such as:
 
@@ -33,6 +33,7 @@ The goal of this project is to explore e-commerce performance across sales, cust
   </tr>
 </table>
 <hr>
+---
 ## Project Structure
 
 ```mermaid
