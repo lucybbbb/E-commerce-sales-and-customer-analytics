@@ -32,10 +32,9 @@ The goal of this project is to explore e-commerce performance across sales, cust
     <td><img width="550" height="300" alt="image" src="docs\pic4.jpg" />    </td>
   </tr>
 </table>
-</hr>
-## Project Structure
----
 
+---
+## Project Structure
 
 
 ```mermaid
