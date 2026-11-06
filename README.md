@@ -65,7 +65,7 @@ PRODUCTS --> EVENTS
 - **Power Query** – Data import, inspection, and preparation.
 - **Git & GitHub** – Version control and project documentation.
 - **Mermaid** – Generate diagrams from plain text.
-
+- **Power Automate Desktop** – Automate CSV file management for the e-commerce project 
 ---
 
 ## Dataset
@@ -146,7 +146,31 @@ The project investigates the following areas.
 ## Power BI Dashboard
 
 The Power BI report presents the results of the analysis through a series of focused visualizations.
+## Power Automate Desktop
 
+A desktop automation workflow was developed using Microsoft Power Automate Desktop to automate CSV file management for the e-commerce analytics project.
+
+**Workflow features:**
+- Retrieves CSV files from an Incoming folder.
+- Iterates through files and moves them into a Processed folder.
+- Captures filenames and processing timestamps.
+- Records processing activity in a text log.
+- Checks whether the Incoming folder is empty and logs an appropriate message.
+
+**Workflow:**
+
+```mermaid
+flowchart TD
+    A["Incoming Folder"] --> B["Get CSV Files"]
+    B --> C{"Any CSV files?"}
+    C -->|Yes| D["For Each File"]
+    D --> E["Capture Filename and Timestamp"]
+    E --> F["Move File to Processed"]
+    F --> G["Write Processing Log"]
+    C -->|No| H["Log: No CSV Files Found"]
+```
+
+The workflow is currently launched manually through Power Automate Desktop and uses files stored locally on the computer.
 ### Sales Performance
 
 - Total revenue, total profit, total orders, and average order value.
